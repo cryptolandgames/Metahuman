@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bunny Head Head Gear
+* source:	https://sketchfab.com/3d-models/bunny-head-head-gear-05de216f709f417c800cd16f6417be08
+* author:	Yellow Whale Labs (https://sketchfab.com/yellowwhalelabs)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bunny Head Head Gear" (https://sketchfab.com/3d-models/bunny-head-head-gear-05de216f709f417c800cd16f6417be08) by Yellow Whale Labs (https://sketchfab.com/yellowwhalelabs) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
